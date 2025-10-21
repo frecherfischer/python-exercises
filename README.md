@@ -1,2 +1,2 @@
 # python-exercises
-my start to learn python
+# That's the place where I upload my Python learning journey :)
